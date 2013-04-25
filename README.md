@@ -3,7 +3,7 @@ MensaManager2013
 
 Managing and simulating a gastronomic business. Join in and explore the unique experience of everyday german mensa life.
 
-This project was written using [Qt-Jambi](http://www.qt-jambi.org/). This is a school project, but we also do projects for money.
+This project was written using [Qt-Jambi](http://www.qt-jambi.org/). It is a school project, but we also do projects for money.
 
 Compilation
 -----------
